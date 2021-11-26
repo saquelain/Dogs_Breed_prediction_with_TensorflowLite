@@ -5,3 +5,10 @@
 4 malamute
 5 eskimo dog
 6 french bulldog
+7 papillon
+8 Afghan_hound
+9 beagle
+10 bloodhound
+11 bluetick
+12 Walker_hound
+13 redbone
