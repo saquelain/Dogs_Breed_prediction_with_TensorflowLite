@@ -1,0 +1,7 @@
+0 Chihuahua
+1 Maltese_dog
+2 pug
+3 Siberian_husky
+4 malamute
+5 eskimo dog
+6 french bulldog
